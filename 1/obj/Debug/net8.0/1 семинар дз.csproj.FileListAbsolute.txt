@@ -1,0 +1,15 @@
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\bin\Debug\net8.0\1 семинар дз.exe
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\bin\Debug\net8.0\1 семинар дз.deps.json
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\bin\Debug\net8.0\1 семинар дз.runtimeconfig.json
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\bin\Debug\net8.0\1 семинар дз.dll
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\bin\Debug\net8.0\1 семинар дз.pdb
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\1 семинар дз.csproj.AssemblyReference.cache
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\1 семинар дз.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\1 семинар дз.AssemblyInfoInputs.cache
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\1 семинар дз.AssemblyInfo.cs
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\1 семинар дз.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\1 семинар дз.dll
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\refint\1 семинар дз.dll
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\1 семинар дз.pdb
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\1 семинар дз.genruntimeconfig.cache
+E:\GeekBrains\Домашка 3 C#\1 семинар дз\obj\Debug\net8.0\ref\1 семинар дз.dll
