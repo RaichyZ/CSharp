@@ -1,0 +1,16 @@
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\bin\Debug\net8.0\6.exe
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\bin\Debug\net8.0\6.deps.json
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\bin\Debug\net8.0\6.runtimeconfig.json
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\bin\Debug\net8.0\6.dll
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\bin\Debug\net8.0\6.pdb
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\6.csproj.AssemblyReference.cache
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\6.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\6.AssemblyInfoInputs.cache
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\6.AssemblyInfo.cs
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\6.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\6.sourcelink.json
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\6.dll
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\refint\6.dll
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\6.pdb
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\6.genruntimeconfig.cache
+E:\GeekBrains\Домашка 3 C#\3\CSharp\CSharp\6\obj\Debug\net8.0\ref\6.dll
